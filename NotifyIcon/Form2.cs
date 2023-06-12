@@ -45,5 +45,16 @@ namespace NotifyIcon
         private void button1_Click(object sender, EventArgs e)
         {
         }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            MessageBox.Show("Processando..");
+            notifyIcon2.ShowBalloonTip(10, "Atualização Pedido", "Pedido entregue", ToolTipIcon.Info);
+        }
+
+        private void notifyIcon1_MouseDoubleClick(object sender, MouseEventArgs e)
+        {
+
+        }
     }
 }
