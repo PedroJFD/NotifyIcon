@@ -1,0 +1,12 @@
+C:\Users\pedro\source\repos\NotifyIcon\NotifyIcon\bin\Debug\NotifyIcon.exe.config
+C:\Users\pedro\source\repos\NotifyIcon\NotifyIcon\bin\Debug\NotifyIcon.exe
+C:\Users\pedro\source\repos\NotifyIcon\NotifyIcon\bin\Debug\NotifyIcon.pdb
+C:\Users\pedro\source\repos\NotifyIcon\NotifyIcon\obj\Debug\NotifyIcon.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\NotifyIcon\NotifyIcon\obj\Debug\NotifyIcon.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\NotifyIcon\NotifyIcon\obj\Debug\NotifyIcon.Form1.resources
+C:\Users\pedro\source\repos\NotifyIcon\NotifyIcon\obj\Debug\NotifyIcon.Properties.Resources.resources
+C:\Users\pedro\source\repos\NotifyIcon\NotifyIcon\obj\Debug\NotifyIcon.csproj.GenerateResource.cache
+C:\Users\pedro\source\repos\NotifyIcon\NotifyIcon\obj\Debug\NotifyIcon.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\NotifyIcon\NotifyIcon\obj\Debug\NotifyIcon.exe
+C:\Users\pedro\source\repos\NotifyIcon\NotifyIcon\obj\Debug\NotifyIcon.pdb
+C:\Users\pedro\source\repos\NotifyIcon\NotifyIcon\obj\Debug\NotifyIcon.Form2.resources
